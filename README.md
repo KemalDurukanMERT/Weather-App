@@ -1,6 +1,6 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+## Weather App
 
+Live Server: https://teal-bunny-b36a72.netlify.app/
 # Project-006 : Weather_Condition_App (JS-06)
 
 ## Description
